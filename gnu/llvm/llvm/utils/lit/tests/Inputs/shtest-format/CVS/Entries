@@ -1,0 +1,19 @@
+D/external_shell////
+D/unsupported_dir////
+/fail.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/lit.cfg/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/no-test-line.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/pass.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/requires-missing.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/requires-present.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/requires-star.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/requires-triple.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/unsupported-expr-false.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/unsupported-expr-true.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/unsupported-star.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/xfail-expr-false.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/xfail-expr-true.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/xfail-feature.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/xfail-target.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/xfail.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1
+/xpass.txt/1.1.1.1/Mon Aug  3 14:30:27 2020/-ko/TOPENBSD_7_1

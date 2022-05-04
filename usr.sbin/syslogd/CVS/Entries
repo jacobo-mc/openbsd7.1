@@ -1,0 +1,16 @@
+/Makefile/1.9/Thu Jan 13 10:34:07 2022//TOPENBSD_7_1
+/evbuffer_tls.c/1.13/Tue Mar 22 22:58:00 2022//TOPENBSD_7_1
+/evbuffer_tls.h/1.5/Fri Oct  9 16:58:25 2015//TOPENBSD_7_1
+/log.c/1.4/Fri Apr 28 14:52:13 2017//TOPENBSD_7_1
+/log.h/1.4/Mon Dec 13 18:28:40 2021//TOPENBSD_7_1
+/parsemsg.c/1.1/Thu Jan 13 10:34:07 2022//TOPENBSD_7_1
+/parsemsg.h/1.1/Thu Jan 13 10:34:07 2022//TOPENBSD_7_1
+/privsep.c/1.74/Sun Oct 24 21:24:19 2021//TOPENBSD_7_1
+/privsep_fdpass.c/1.11/Thu Jul  9 20:16:04 2015//TOPENBSD_7_1
+/ringbuf.c/1.10/Sun Oct 16 22:12:50 2016//TOPENBSD_7_1
+/syslog.conf.5/1.39/Sun Jan 13 11:07:47 2019//TOPENBSD_7_1
+/syslogd.8/1.60/Thu Sep 27 08:33:25 2018//TOPENBSD_7_1
+/syslogd.c/1.273/Thu Jan 13 10:34:07 2022//TOPENBSD_7_1
+/syslogd.h/1.36/Thu Jan 13 10:34:07 2022//TOPENBSD_7_1
+/ttymsg.c/1.19/Fri Sep  3 16:28:33 2021//TOPENBSD_7_1
+D

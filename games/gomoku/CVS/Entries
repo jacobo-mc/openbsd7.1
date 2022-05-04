@@ -1,0 +1,10 @@
+/Makefile/1.5/Thu May 23 18:43:00 2002//TOPENBSD_7_1
+/bdinit.c/1.8/Fri Jan  8 21:38:33 2016//TOPENBSD_7_1
+/bdisp.c/1.13/Fri Jan  8 21:38:33 2016//TOPENBSD_7_1
+/gomoku.6/1.15/Mon Sep  8 01:27:54 2014//TOPENBSD_7_1
+/gomoku.h/1.12/Mon Jan  4 17:33:24 2016//TOPENBSD_7_1
+/main.c/1.33/Sat Oct 23 11:22:48 2021//TOPENBSD_7_1
+/makemove.c/1.8/Fri Jan  8 21:38:33 2016//TOPENBSD_7_1
+/pickmove.c/1.16/Fri Jan  8 21:38:33 2016//TOPENBSD_7_1
+/stoc.c/1.11/Fri Jan  8 21:38:33 2016//TOPENBSD_7_1
+D

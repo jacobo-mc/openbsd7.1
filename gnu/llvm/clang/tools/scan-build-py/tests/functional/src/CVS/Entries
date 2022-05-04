@@ -1,0 +1,10 @@
+D/build////
+D/compilation_database////
+D/include////
+/broken-one.c/1.1.1.1/Mon Aug  3 14:31:34 2020/-ko/TOPENBSD_7_1
+/broken-two.c/1.1.1.1/Mon Aug  3 14:31:34 2020/-ko/TOPENBSD_7_1
+/clean-one.c/1.1.1.1/Mon Aug  3 14:31:34 2020/-ko/TOPENBSD_7_1
+/clean-two.c/1.1.1.1/Mon Aug  3 14:31:34 2020/-ko/TOPENBSD_7_1
+/emit-one.c/1.1.1.1/Mon Aug  3 14:31:34 2020/-ko/TOPENBSD_7_1
+/emit-two.c/1.1.1.1/Mon Aug  3 14:31:34 2020/-ko/TOPENBSD_7_1
+/main.c/1.1.1.1/Mon Aug  3 14:31:34 2020/-ko/TOPENBSD_7_1

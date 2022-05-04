@@ -1,0 +1,17 @@
+D/Extract////
+D/Rename////
+/ASTSelection.h/1.1.1.2/Wed Apr 28 12:28:54 2021/-ko/TOPENBSD_7_1
+/AtomicChange.h/1.1.1.2/Wed Apr 28 12:28:54 2021/-ko/TOPENBSD_7_1
+/Lookup.h/1.1.1.1/Fri Dec 17 12:24:35 2021/-ko/TOPENBSD_7_1
+/RecursiveSymbolVisitor.h/1.1.1.2/Fri Dec 17 12:24:35 2021/-ko/TOPENBSD_7_1
+/RefactoringAction.h/1.1.1.1/Mon Aug  3 14:31:32 2020/-ko/TOPENBSD_7_1
+/RefactoringActionRule.h/1.1.1.2/Fri Dec 17 12:24:35 2021/-ko/TOPENBSD_7_1
+/RefactoringActionRuleRequirements.h/1.1.1.1/Mon Aug  3 14:31:32 2020/-ko/TOPENBSD_7_1
+/RefactoringActionRules.h/1.1.1.1/Mon Aug  3 14:31:32 2020/-ko/TOPENBSD_7_1
+/RefactoringActionRulesInternal.h/1.1.1.1/Mon Aug  3 14:31:32 2020/-ko/TOPENBSD_7_1
+/RefactoringDiagnostic.h/1.1.1.1/Mon Aug  3 14:31:32 2020/-ko/TOPENBSD_7_1
+/RefactoringOption.h/1.1.1.1/Mon Aug  3 14:31:32 2020/-ko/TOPENBSD_7_1
+/RefactoringOptionVisitor.h/1.1.1.1/Mon Aug  3 14:31:32 2020/-ko/TOPENBSD_7_1
+/RefactoringOptions.h/1.1.1.2/Wed Apr 28 12:28:54 2021/-ko/TOPENBSD_7_1
+/RefactoringResultConsumer.h/1.1.1.1/Mon Aug  3 14:31:32 2020/-ko/TOPENBSD_7_1
+/RefactoringRuleContext.h/1.1.1.2/Fri Dec 17 12:24:35 2021/-ko/TOPENBSD_7_1

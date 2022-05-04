@@ -1,0 +1,12 @@
+D/Adapter////
+D/Base////
+D/Gzip////
+D/Zip////
+D/Zlib////
+/Base.pm/1.6/Mon Mar  1 23:19:46 2021/-ko/TOPENBSD_7_1
+/Bzip2.pm/1.6/Mon Mar  1 23:19:46 2021/-ko/TOPENBSD_7_1
+/Deflate.pm/1.6/Mon Mar  1 23:19:46 2021/-ko/TOPENBSD_7_1
+/FAQ.pod/1.5/Mon Mar  1 23:19:46 2021/-ko/TOPENBSD_7_1
+/Gzip.pm/1.6/Mon Mar  1 23:19:46 2021/-ko/TOPENBSD_7_1
+/RawDeflate.pm/1.6/Mon Mar  1 23:19:46 2021/-ko/TOPENBSD_7_1
+/Zip.pm/1.6/Mon Mar  1 23:19:46 2021/-ko/TOPENBSD_7_1

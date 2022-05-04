@@ -1,0 +1,6 @@
+D/subdir////
+/.lit_test_times.txt/1.1.1.1/Fri Dec 17 12:23:48 2021/-ko/TOPENBSD_7_1
+/aaa.txt/1.1.1.1/Fri Dec 17 12:23:48 2021/-ko/TOPENBSD_7_1
+/bbb.txt/1.1.1.1/Fri Dec 17 12:23:48 2021/-ko/TOPENBSD_7_1
+/lit.cfg/1.1.1.1/Fri Dec 17 12:23:48 2021/-ko/TOPENBSD_7_1
+/new-test.txt/1.1.1.1/Fri Dec 17 12:23:48 2021/-ko/TOPENBSD_7_1

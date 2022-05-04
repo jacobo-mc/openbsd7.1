@@ -1,0 +1,16 @@
+/ChangeLog/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/Make-lang.in/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/README/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/config-lang.in/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/lang-specs.h/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/lang.opt/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/lex.l/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/parse.y/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/spec.c/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/tree-convert.c/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/tree1.c/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/treelang.h/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/treelang.texi/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/treetree.c/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+/treetree.h/1.1.1.1/Thu Oct 15 17:11:29 2009//TOPENBSD_7_1
+D

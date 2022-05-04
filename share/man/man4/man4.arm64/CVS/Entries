@@ -1,0 +1,23 @@
+/Makefile/1.24/Sun Feb 20 19:33:48 2022//TOPENBSD_7_1
+/agtimer.4/1.1/Wed Apr  4 14:21:26 2018//TOPENBSD_7_1
+/ampintc.4/1.2/Sat Apr  7 13:38:18 2018//TOPENBSD_7_1
+/aplcpu.4/1.2/Sun Feb 20 20:01:04 2022//TOPENBSD_7_1
+/apldart.4/1.2/Sat Feb 27 18:50:38 2021//TOPENBSD_7_1
+/apldog.4/1.2/Mon Feb 22 21:58:25 2021//TOPENBSD_7_1
+/aplhidev.4/1.2/Mon Nov  1 15:23:57 2021//TOPENBSD_7_1
+/apliic.4/1.2/Fri Dec 24 07:05:55 2021//TOPENBSD_7_1
+/aplintc.4/1.2/Wed Feb 24 13:36:19 2021//TOPENBSD_7_1
+/aplmbox.4/1.1/Sun Dec 19 13:15:47 2021//TOPENBSD_7_1
+/aplns.4/1.1/Fri May 28 04:49:44 2021//TOPENBSD_7_1
+/aplpcie.4/1.1/Sat Feb 27 17:15:33 2021//TOPENBSD_7_1
+/aplpinctrl.4/1.1/Tue Aug 31 15:37:40 2021//TOPENBSD_7_1
+/aplpmgr.4/1.1/Thu Dec  9 11:44:31 2021//TOPENBSD_7_1
+/aplpmu.4/1.2/Sun May 30 12:26:04 2021//TOPENBSD_7_1
+/aplsmc.4/1.2/Mon Jan 10 21:16:44 2022//TOPENBSD_7_1
+/aplspi.4/1.1/Sun Oct 31 17:47:06 2021//TOPENBSD_7_1
+/aplspmi.4/1.2/Sun May 30 12:26:04 2021//TOPENBSD_7_1
+/apm.4/1.5/Thu Mar 31 17:27:21 2022//TOPENBSD_7_1
+/efi.4/1.2/Sat Apr  7 13:52:48 2018//TOPENBSD_7_1
+/intro.4/1.2/Thu Mar 31 17:27:21 2022//TOPENBSD_7_1
+/smbios.4/1.1/Mon Aug  5 07:08:57 2019//TOPENBSD_7_1
+D

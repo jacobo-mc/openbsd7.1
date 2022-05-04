@@ -1,0 +1,19 @@
+/ChangeLog/1.1.1.2/Fri Dec 24 22:41:20 2004//TOPENBSD_7_1
+/Makefile.am/1.1.1.1/Mon Jan  5 15:46:06 2004//TOPENBSD_7_1
+/Makefile.in/1.1.1.1/Mon Jan  5 15:46:06 2004//TOPENBSD_7_1
+/_G_config.h/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/filedoalloc.c/1.1.1.1/Mon Jan  5 15:46:06 2004//TOPENBSD_7_1
+/fileops.c/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/genops.c/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/iofclose.c/1.1.1.1/Mon Jan  5 15:46:08 2004//TOPENBSD_7_1
+/iofopen.c/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/iofwide.c/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/iolibio.h/1.1.1.2/Fri Dec 24 22:41:17 2004//TOPENBSD_7_1
+/libio.h/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/libioP.h/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/stdfiles.c/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/stdio.c/1.1.1.1/Mon Jan  5 15:46:10 2004//TOPENBSD_7_1
+/wfiledoalloc.c/1.3/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/wfileops.c/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+/wgenops.c/1.2/Fri Jun 17 20:40:31 2005//TOPENBSD_7_1
+D

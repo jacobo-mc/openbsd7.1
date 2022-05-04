@@ -1,0 +1,11 @@
+D/options////
+D/x509////
+/Makefile/1.7/Tue Feb 16 21:39:17 2021//TOPENBSD_7_1
+/README/1.2/Sun Nov  6 11:56:43 2016//TOPENBSD_7_1
+/appstest.sh/1.54/Sat Feb  5 18:36:08 2022//TOPENBSD_7_1
+/openssl.cnf/1.2/Wed Sep 16 01:39:05 2015//TOPENBSD_7_1
+/test_client.sh/1.2/Tue Feb  6 02:31:13 2018//TOPENBSD_7_1
+/test_server.sh/1.2/Tue Feb  6 02:31:13 2018//TOPENBSD_7_1
+/testdsa.sh/1.2/Tue Feb  6 02:31:13 2018//TOPENBSD_7_1
+/testenc.sh/1.2/Tue Feb  6 02:31:13 2018//TOPENBSD_7_1
+/testrsa.sh/1.2/Tue Feb  6 02:31:13 2018//TOPENBSD_7_1

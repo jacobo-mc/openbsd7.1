@@ -1,0 +1,11 @@
+/Makefile/1.6/Tue Sep 29 02:37:29 2015//TOPENBSD_7_1
+/allowedhost.c/1.1/Tue Sep 29 09:51:42 2015//TOPENBSD_7_1
+/extern.h/1.9/Tue Sep 29 02:37:29 2015//TOPENBSD_7_1
+/key.c/1.8/Fri Jan 16 06:40:18 2015//TOPENBSD_7_1
+/lpd.8/1.31/Mon Mar  8 02:47:29 2021//TOPENBSD_7_1
+/lpd.c/1.65/Thu Apr 26 12:42:51 2018//TOPENBSD_7_1
+/lpdchar.c/1.8/Sun Feb 28 20:55:40 2016//TOPENBSD_7_1
+/modes.c/1.8/Fri Jan 16 06:40:18 2015//TOPENBSD_7_1
+/printjob.c/1.62/Sun Oct 24 21:24:18 2021//TOPENBSD_7_1
+/recvjob.c/1.26/Fri Jan 16 06:40:18 2015//TOPENBSD_7_1
+D

@@ -1,0 +1,11 @@
+/crti.asm/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/crtn.asm/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/mmix-modes.def/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/mmix-protos.h/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/mmix.c/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/mmix.h/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/mmix.md/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/mmix.opt/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/predicates.md/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+/t-mmix/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_7_1
+D

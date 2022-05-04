@@ -1,0 +1,9 @@
+/aapic.c/1.7/Mon Feb 21 11:03:39 2022//TOPENBSD_7_1
+/acpipci.c/1.7/Mon Feb 21 11:03:39 2022//TOPENBSD_7_1
+/agp_machdep.c/1.14/Sat Mar 14 03:38:46 2015//TOPENBSD_7_1
+/pchb.c/1.46/Mon Feb 21 11:03:39 2022//TOPENBSD_7_1
+/pci_machdep.c/1.77/Thu Mar 11 11:16:55 2021//TOPENBSD_7_1
+/pcib.c/1.7/Mon Feb 21 11:03:39 2022//TOPENBSD_7_1
+/pciide_machdep.c/1.4/Sat Oct 14 04:44:43 2017//TOPENBSD_7_1
+/vga_post.c/1.11/Sun Jan  3 02:29:28 2021//TOPENBSD_7_1
+D

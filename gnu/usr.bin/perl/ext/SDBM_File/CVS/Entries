@@ -1,0 +1,24 @@
+D/t////
+/CHANGES/1.1/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/Makefile.PL/1.10/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/README/1.1/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/README.too/1.1/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/SDBM_File.pm/1.11/Mon Dec 30 02:13:53 2019/-ko/TOPENBSD_7_1
+/SDBM_File.xs/1.2/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/biblio/1.1/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/dba.c/1.1/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/dbd.c/1.1/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/dbe.1/1.1/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/dbe.c/1.2/Wed Feb 13 21:15:23 2019/-ko/TOPENBSD_7_1
+/dbu.c/1.2/Wed Feb 13 21:15:23 2019/-ko/TOPENBSD_7_1
+/grind/1.1/Sun Feb  5 00:32:13 2017/-ko/TOPENBSD_7_1
+/hash.c/1.2/Wed Feb 13 21:15:23 2019/-ko/TOPENBSD_7_1
+/pair.c/1.3/Mon Dec 30 02:13:53 2019/-ko/TOPENBSD_7_1
+/pair.h/1.3/Mon Dec 30 02:13:53 2019/-ko/TOPENBSD_7_1
+/readme.ms/1.1/Sun Feb  5 00:32:14 2017/-ko/TOPENBSD_7_1
+/sdbm.3/1.1/Sun Feb  5 00:32:14 2017/-ko/TOPENBSD_7_1
+/sdbm.c/1.3/Mon Dec 30 02:13:53 2019/-ko/TOPENBSD_7_1
+/sdbm.h/1.3/Mon Dec 30 02:13:53 2019/-ko/TOPENBSD_7_1
+/tune.h/1.1/Sun Feb  5 00:32:14 2017/-ko/TOPENBSD_7_1
+/typemap/1.10/Mon Mar 24 15:05:27 2014/-ko/TOPENBSD_7_1
+/util.c/1.1/Sun Feb  5 00:32:14 2017/-ko/TOPENBSD_7_1

@@ -1,0 +1,18 @@
+D/acme-client////
+D/arp////
+D/bgpd////
+D/btrace////
+D/httpd////
+D/ifstated////
+D/ldapd////
+D/mtree////
+D/ocspcheck////
+D/ospf6d////
+D/ospfd////
+D/pkg_add////
+D/relayd////
+D/rpki-client////
+D/snmpd////
+D/syslogd////
+D/vmd////
+/Makefile/1.26/Thu Nov 11 10:03:54 2021//TOPENBSD_7_1

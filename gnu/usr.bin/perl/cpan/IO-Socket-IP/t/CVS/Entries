@@ -1,0 +1,24 @@
+/00use.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/01local-client-v4.t/1.2/Sun Feb  5 00:32:00 2017/-kb/TOPENBSD_7_1
+/02local-server-v4.t/1.2/Sun Feb  5 00:32:00 2017/-kb/TOPENBSD_7_1
+/03local-cross-v4.t/1.2/Sun Feb  5 00:32:00 2017/-kb/TOPENBSD_7_1
+/04local-client-v6.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/05local-server-v6.t/1.2/Sun Feb  5 00:32:00 2017/-kb/TOPENBSD_7_1
+/06local-cross-v6.t/1.2/Sun Feb  5 00:32:00 2017/-kb/TOPENBSD_7_1
+/10args.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/11sockopts.t/1.4/Sun Oct 29 22:38:46 2017/-kb/TOPENBSD_7_1
+/12port-fallback.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/13addrinfo.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/14fileno.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/15io-socket.t/1.2/Sun Feb  5 00:32:00 2017/-kb/TOPENBSD_7_1
+/16v6only.t/1.2/Sun Feb  5 00:32:00 2017/-kb/TOPENBSD_7_1
+/17gai-flags.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/18fdopen.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/19no-addrs.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/20subclass.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/21as-inet.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/22timeout.t/1.1/Sun Feb  5 00:32:00 2017/-ko/TOPENBSD_7_1
+/30nonblocking-connect.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/31nonblocking-connect-internet.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+/99pod.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/TOPENBSD_7_1
+D

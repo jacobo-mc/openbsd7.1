@@ -1,0 +1,11 @@
+/Makefile/1.2/Thu Jan 31 16:28:38 2019//TOPENBSD_7_1
+/box.in/1.4/Tue Jul  4 14:53:27 2017//TOPENBSD_7_1
+/box.out_ascii/1.4/Mon Jun 28 19:59:12 2021//TOPENBSD_7_1
+/center-mdoc.in/1.1/Thu Jan 31 16:28:38 2019//TOPENBSD_7_1
+/center-mdoc.out_ascii/1.1/Thu Jan 31 16:28:38 2019//TOPENBSD_7_1
+/center.in/1.2/Tue Jul  4 14:53:27 2017//TOPENBSD_7_1
+/center.out_ascii/1.2/Mon Jun 28 19:59:12 2021//TOPENBSD_7_1
+/invalid.in/1.2/Tue Jul  4 14:53:27 2017//TOPENBSD_7_1
+/invalid.out_ascii/1.2/Mon Jun 28 19:59:12 2021//TOPENBSD_7_1
+/invalid.out_lint/1.4/Tue Jul  4 14:53:27 2017//TOPENBSD_7_1
+D

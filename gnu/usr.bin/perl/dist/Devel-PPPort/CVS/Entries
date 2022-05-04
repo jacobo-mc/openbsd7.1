@@ -1,0 +1,18 @@
+D/devel////
+D/parts////
+D/t////
+/Changes/1.2/Thu Feb 10 14:37:43 2022/-ko/TOPENBSD_7_1
+/HACKERS/1.2/Thu Feb 10 14:37:43 2022/-ko/TOPENBSD_7_1
+/MANIFEST.SKIP/1.2/Thu Feb 10 14:37:43 2022/-ko/TOPENBSD_7_1
+/Makefile.PL/1.4/Fri Mar  4 22:53:05 2022/-ko/TOPENBSD_7_1
+/PPPort.xs/1.1.1.2/Mon Mar  1 23:15:44 2021/-ko/TOPENBSD_7_1
+/PPPort_pm.PL/1.2/Thu Feb 10 14:37:43 2022/-ko/TOPENBSD_7_1
+/RealPPPort_xs.PL/1.1.1.1/Mon Mar  1 23:15:44 2021/-ko/TOPENBSD_7_1
+/TODO/1.1.1.1/Mon Mar  1 23:15:44 2021/-ko/TOPENBSD_7_1
+/apicheck_c.PL/1.1.1.2/Mon Mar  1 23:15:44 2021/-ko/TOPENBSD_7_1
+/mktests.PL/1.2/Thu Feb 10 14:37:43 2022/-ko/TOPENBSD_7_1
+/module2.c/1.1.1.1/Wed Feb 13 21:11:26 2019/-ko/TOPENBSD_7_1
+/module3.c/1.1.1.1/Wed Feb 13 21:11:26 2019/-ko/TOPENBSD_7_1
+/ppport_h.PL/1.1.1.1/Wed Feb 13 21:11:26 2019/-ko/TOPENBSD_7_1
+/soak/1.1.1.1/Wed Feb 13 21:11:26 2019/-ko/TOPENBSD_7_1
+/typemap/1.1.1.1/Wed Feb 13 21:11:26 2019/-ko/TOPENBSD_7_1

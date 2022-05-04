@@ -1,0 +1,19 @@
+D/alpha////
+D/amd64////
+D/arm64////
+D/armv7////
+D/hppa////
+D/i386////
+D/landisk////
+D/loongson////
+D/luna88k////
+D/macppc////
+D/octeon////
+D/powerpc64////
+D/riscv64////
+D/sparc64////
+/INSTALL/1.56/Sat Dec 25 17:26:13 2021//TOPENBSD_7_1
+/Makefile/1.51/Sat Jun 19 03:06:36 2021//TOPENBSD_7_1
+/m4.common/1.133/Thu Mar 24 20:46:56 2022//TOPENBSD_7_1
+/mirrors/1.120/Fri Sep  2 12:17:32 2016//TOPENBSD_7_1
+/packages/1.51/Thu Aug  1 19:42:51 2019//TOPENBSD_7_1

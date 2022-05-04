@@ -1,0 +1,15 @@
+/Makefile/1.11/Sat May 11 17:46:02 2019//TOPENBSD_7_1
+/aldap.c/1.48/Thu Mar 31 09:06:55 2022//TOPENBSD_7_1
+/aldap.h/1.14/Sat May 11 17:46:02 2019//TOPENBSD_7_1
+/entries.c/1.5/Sat Feb  5 22:59:58 2022//TOPENBSD_7_1
+/ldapclient.c/1.44/Sat Feb  5 22:59:58 2022//TOPENBSD_7_1
+/log.c/1.4/Tue Mar 21 12:06:56 2017//TOPENBSD_7_1
+/log.h/1.1/Fri Jan 20 12:39:36 2017//TOPENBSD_7_1
+/parse.y/1.34/Fri Oct 15 15:01:29 2021//TOPENBSD_7_1
+/yp.c/1.20/Sat Feb  5 22:59:58 2022//TOPENBSD_7_1
+/ypldap.8/1.11/Tue Aug 29 20:16:22 2017//TOPENBSD_7_1
+/ypldap.c/1.22/Wed Jan 27 07:21:55 2021//TOPENBSD_7_1
+/ypldap.conf.5/1.24/Sat May 16 16:58:12 2020//TOPENBSD_7_1
+/ypldap.h/1.21/Wed Jan 27 07:21:55 2021//TOPENBSD_7_1
+/ypldap_dns.c/1.14/Sat Oct  9 18:43:50 2021//TOPENBSD_7_1
+D

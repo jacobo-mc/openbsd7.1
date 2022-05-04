@@ -1,0 +1,50 @@
+D/contrib////
+D/diff////
+D/doc////
+D/emx////
+D/lib////
+D/man////
+D/os2////
+D/src////
+D/tools////
+D/vms////
+D/windows-NT////
+D/zlib////
+/AUTHORS/1.1.1.1/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/BUGS/1.1.1.10/Fri Sep 10 05:06:02 1999//TOPENBSD_7_1
+/COPYING/1.1.1.2/Sun Feb 28 21:30:22 1999//TOPENBSD_7_1
+/COPYING.LIB/1.1.1.2/Sun Feb 28 21:30:23 1999//TOPENBSD_7_1
+/ChangeLog/1.1.1.18/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/ChangeLog.zoo/1.1.1.1/Tue Dec 19 09:21:27 1995//TOPENBSD_7_1
+/DEVEL-CVS/1.1.1.4/Sat Feb 10 18:57:19 2001//TOPENBSD_7_1
+/FAQ/1.1.1.6/Sat Feb 10 18:57:18 2001//TOPENBSD_7_1
+/HACKING/1.1.1.8/Sat Feb 10 18:57:19 2001//TOPENBSD_7_1
+/INSTALL/1.1.1.15/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/MINOR-BUGS/1.1.1.3/Sun Feb 22 08:19:53 1998//TOPENBSD_7_1
+/Makefile.am/1.1.1.1/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/Makefile.bsd-wrapper/1.59/Sat Dec 21 21:40:00 2019//TOPENBSD_7_1
+/Makefile.in/1.17/Sat Oct  6 22:43:24 2001//TOPENBSD_7_1
+/NEWS/1.1.1.14/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/PROJECTS/1.1.1.3/Sun Feb 22 08:19:52 1998//TOPENBSD_7_1
+/README/1.1.1.9/Sat Feb 10 18:57:18 2001//TOPENBSD_7_1
+/README.VMS/1.1.1.5/Sat Aug 22 20:50:18 1998//TOPENBSD_7_1
+/TESTS/1.1.1.9/Sat Feb 10 18:57:19 2001//TOPENBSD_7_1
+/TODO/1.1.1.13/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/acconfig.h/1.2/Fri Nov 20 12:16:42 2015//TOPENBSD_7_1
+/acinclude.m4/1.1.1.1/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/aclocal.m4/1.1.1.1/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/build.com/1.1.1.2/Sun Feb 22 08:20:02 1998//TOPENBSD_7_1
+/config.h.in/1.3/Thu Feb  5 12:56:22 2015//TOPENBSD_7_1
+/configure/1.36/Mon Mar  7 17:13:01 2016//TOPENBSD_7_1
+/configure.in/1.32/Mon Mar  7 17:12:33 2016//TOPENBSD_7_1
+/cvs-format.el/1.1.1.3/Mon Apr 21 04:25:14 1997//TOPENBSD_7_1
+/cvs.spec/1.1.1.6/Fri Sep 28 22:45:36 2001//TOPENBSD_7_1
+/cvs.spec.in/1.1.1.1/Fri Sep 28 22:45:36 2001//TOPENBSD_7_1
+/cvsnt.dsp/1.1.1.3/Fri Sep 28 22:45:36 2001//TOPENBSD_7_1
+/cvsnt.dsw/1.1.1.1/Fri Sep 10 05:06:06 1999//TOPENBSD_7_1
+/cvsnt.mak/1.1.1.15/Fri Sep 28 22:45:36 2001//TOPENBSD_7_1
+/depcomp/1.1.1.1/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/install-sh/1.1.1.3/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/missing/1.1.1.1/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1
+/mkinstalldirs/1.4/Thu Sep 29 09:16:21 2016//TOPENBSD_7_1
+/stamp-h1.in/1.1.1.1/Fri Sep 28 22:45:35 2001//TOPENBSD_7_1

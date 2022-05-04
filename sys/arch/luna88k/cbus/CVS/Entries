@@ -1,0 +1,12 @@
+/cbus.c/1.9/Thu Mar 11 11:16:58 2021//TOPENBSD_7_1
+/cbusvar.h/1.5/Sat Jun 29 04:33:11 2019//TOPENBSD_7_1
+/i82365_cbus.c/1.6/Sun Jun 30 00:23:22 2019//TOPENBSD_7_1
+/if_ne_cbus.c/1.1/Mon Dec 30 12:16:12 2019//TOPENBSD_7_1
+/nec86.c/1.5/Mon Mar 21 19:22:39 2022//TOPENBSD_7_1
+/nec86hw.c/1.6/Thu Mar 11 11:16:58 2021//TOPENBSD_7_1
+/nec86hwvar.h/1.3/Mon Sep 19 06:46:43 2016//TOPENBSD_7_1
+/nec86reg.h/1.1/Sun Dec 28 13:03:18 2014//TOPENBSD_7_1
+/nec86var.h/1.2/Mon Mar 21 19:22:39 2022//TOPENBSD_7_1
+/necsb.c/1.4/Thu Mar 16 18:13:43 2017//TOPENBSD_7_1
+/pcex.c/1.4/Tue Oct  8 13:14:49 2019//TOPENBSD_7_1
+D

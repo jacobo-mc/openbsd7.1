@@ -1,0 +1,16 @@
+D/COFF////
+D/ELF////
+D/MachO////
+D/wasm////
+/BitcodeStripOpts.td/1.1.1.1/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/CMakeLists.txt/1.1.1.3/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/CommonConfig.h/1.1.1.1/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/CommonOpts.td/1.1.1.2/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/ConfigManager.cpp/1.1.1.1/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/ConfigManager.h/1.1.1.1/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/InstallNameToolOpts.td/1.1.1.3/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/MultiFormatConfig.h/1.1.1.1/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/ObjcopyOpts.td/1.1.1.2/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/StripOpts.td/1.1.1.2/Wed Apr 28 12:28:20 2021/-ko/TOPENBSD_7_1
+/llvm-objcopy.cpp/1.1.1.4/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1
+/llvm-objcopy.h/1.1.1.2/Fri Dec 17 12:23:42 2021/-ko/TOPENBSD_7_1

@@ -1,0 +1,9 @@
+/Makefile/1.10/Tue Jul 20 02:05:15 2010//TOPENBSD_7_1
+/ifstated.8/1.10/Tue Aug  8 14:16:12 2017//TOPENBSD_7_1
+/ifstated.c/1.66/Mon Jul 12 15:09:21 2021//TOPENBSD_7_1
+/ifstated.conf.5/1.16/Sat May 16 16:58:11 2020//TOPENBSD_7_1
+/ifstated.h/1.19/Sun Aug 20 17:49:29 2017//TOPENBSD_7_1
+/log.c/1.5/Sun Jun 18 12:03:47 2017//TOPENBSD_7_1
+/log.h/1.2/Mon Dec 13 18:28:40 2021//TOPENBSD_7_1
+/parse.y/1.56/Fri Oct 15 15:01:28 2021//TOPENBSD_7_1
+D

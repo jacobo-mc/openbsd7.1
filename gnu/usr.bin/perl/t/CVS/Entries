@@ -1,0 +1,26 @@
+D/base////
+D/benchmark////
+D/bigmem////
+D/cmd////
+D/comp////
+D/io////
+D/japh////
+D/lib////
+D/mro////
+D/op////
+D/opbasic////
+D/perf////
+D/porting////
+D/re////
+D/run////
+D/test_pl////
+D/uni////
+D/win32////
+/README/1.8/Thu Apr  9 01:32:15 2020/-ko/TOPENBSD_7_1
+/TEST/1.20/Mon Mar  1 23:20:00 2021/-ko/TOPENBSD_7_1
+/charset_tools.pl/1.4/Mon Mar  1 23:20:00 2021/-ko/TOPENBSD_7_1
+/harness/1.18/Mon Mar  1 23:20:00 2021/-ko/TOPENBSD_7_1
+/loc_tools.pl/1.8/Mon Mar  1 23:20:00 2021/-kb/TOPENBSD_7_1
+/perl.supp/1.1.1.2/Mon Sep 29 17:18:58 2008/-ko/TOPENBSD_7_1
+/test.pl/1.5/Mon Mar  1 23:20:00 2021/-ko/TOPENBSD_7_1
+/thread_it.pl/1.3/Wed Feb 13 21:15:30 2019/-ko/TOPENBSD_7_1

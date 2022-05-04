@@ -1,0 +1,26 @@
+/binary_function.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/binary_negate.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/bind.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/bind_front.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/binder1st.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/binder2nd.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/default_searcher.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/function.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/hash.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/identity.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/invoke.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/is_transparent.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/mem_fn.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/mem_fun_ref.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/not_fn.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/operations.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/perfect_forward.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/pointer_to_binary_function.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/pointer_to_unary_function.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/ranges_operations.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/reference_wrapper.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/unary_function.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/unary_negate.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/unwrap_ref.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+/weak_result_type.h/1.1.1.1/Fri Dec 17 12:26:14 2021/-ko/TOPENBSD_7_1
+D

@@ -1,0 +1,6 @@
+/hm_ameth.c/1.12/Sun Dec 12 21:30:14 2021//TOPENBSD_7_1
+/hm_pmeth.c/1.13/Wed Mar 30 07:17:48 2022//TOPENBSD_7_1
+/hmac.c/1.27/Sun Dec 12 21:30:14 2021//TOPENBSD_7_1
+/hmac.h/1.16/Fri Jan 14 08:06:03 2022//TOPENBSD_7_1
+/hmac_local.h/1.3/Fri Jan 14 08:06:03 2022//TOPENBSD_7_1
+D

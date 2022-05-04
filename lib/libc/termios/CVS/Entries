@@ -1,0 +1,22 @@
+/Makefile.inc/1.5/Wed Mar 30 06:38:42 2016//TOPENBSD_7_1
+/cfgetispeed.c/1.5/Fri Aug  5 13:03:00 2005//TOPENBSD_7_1
+/cfgetospeed.c/1.5/Fri Aug  5 13:03:00 2005//TOPENBSD_7_1
+/cfmakeraw.c/1.7/Mon Feb 25 06:20:57 2008//TOPENBSD_7_1
+/cfsetispeed.c/1.5/Fri Aug  5 13:03:00 2005//TOPENBSD_7_1
+/cfsetospeed.c/1.5/Fri Aug  5 13:03:00 2005//TOPENBSD_7_1
+/cfsetspeed.c/1.5/Fri Aug  5 13:03:00 2005//TOPENBSD_7_1
+/tcdrain.c/1.6/Sat May  7 19:05:22 2016//TOPENBSD_7_1
+/tcflow.c/1.6/Sun Sep 10 18:20:00 2017//TOPENBSD_7_1
+/tcflush.c/1.6/Fri Sep 11 11:25:04 2015//TOPENBSD_7_1
+/tcgetattr.c/1.6/Sun Sep 13 11:51:36 2015//TOPENBSD_7_1
+/tcgetpgrp.3/1.10/Thu Dec 12 22:44:22 2013//TOPENBSD_7_1
+/tcgetpgrp.c/1.8/Fri Jun 28 13:32:42 2019//TOPENBSD_7_1
+/tcgetsid.3/1.2/Tue Oct 17 22:47:58 2017//TOPENBSD_7_1
+/tcgetsid.c/1.4/Fri Jun 28 13:32:42 2019//TOPENBSD_7_1
+/tcsendbreak.3/1.9/Wed Jun  5 03:39:23 2013//TOPENBSD_7_1
+/tcsendbreak.c/1.10/Sun Sep 10 18:20:00 2017//TOPENBSD_7_1
+/tcsetattr.3/1.17/Tue Jan 21 03:15:45 2014//TOPENBSD_7_1
+/tcsetattr.c/1.6/Sun Sep 13 11:51:36 2015//TOPENBSD_7_1
+/tcsetpgrp.3/1.14/Tue Mar  7 19:08:07 2017//TOPENBSD_7_1
+/tcsetpgrp.c/1.8/Tue Dec 16 03:32:21 2014//TOPENBSD_7_1
+D

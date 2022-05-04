@@ -1,0 +1,63 @@
+D/amd////
+D/etc.alpha////
+D/etc.amd64////
+D/etc.arm64////
+D/etc.armv7////
+D/etc.hppa////
+D/etc.i386////
+D/etc.landisk////
+D/etc.loongson////
+D/etc.luna88k////
+D/etc.macppc////
+D/etc.octeon////
+D/etc.powerpc64////
+D/etc.riscv64////
+D/etc.sparc64////
+D/examples////
+D/mail////
+D/mtree////
+D/ppp////
+D/rc.d////
+D/root////
+D/rpki////
+D/signify////
+D/skel////
+/MAKEDEV.common/1.115/Fri Jan  7 01:13:15 2022//TOPENBSD_7_1
+/MAKEDEV.man/1.9/Tue Jun  6 08:11:23 2017//TOPENBSD_7_1
+/MAKEDEV.mansub/1.2/Fri Feb 20 19:13:01 2004//TOPENBSD_7_1
+/MAKEDEV.mi/1.83/Sun Sep 11 03:06:31 2016//TOPENBSD_7_1
+/MAKEDEV.sub/1.14/Mon Feb  7 06:14:18 2005//TOPENBSD_7_1
+/Makefile/1.485/Thu Nov 11 09:38:14 2021//TOPENBSD_7_1
+/Makefile.inc/1.8/Thu May 26 16:29:51 2016//TOPENBSD_7_1
+/changelist/1.130/Thu Nov 11 09:38:14 2021//TOPENBSD_7_1
+/crontab/1.28/Sat Apr 18 17:22:43 2020//TOPENBSD_7_1
+/daily/1.95/Tue Oct 20 22:42:29 2020//TOPENBSD_7_1
+/fbtab.head/1.2/Wed May  5 06:56:34 1999//TOPENBSD_7_1
+/fbtab.tail/1.2/Sat Aug 24 21:07:30 1996//TOPENBSD_7_1
+/ftpusers/1.50/Mon Mar 17 21:01:02 2014//TOPENBSD_7_1
+/gettytab/1.7/Tue Mar 12 11:01:25 2019//TOPENBSD_7_1
+/group/1.94/Tue Jan 28 16:51:03 2020//TOPENBSD_7_1
+/ksh.kshrc/1.32/Wed May 16 14:01:41 2018//TOPENBSD_7_1
+/locate.rc/1.8/Fri Aug  6 19:14:55 2021//TOPENBSD_7_1
+/mailer.conf/1.7/Mon Dec  7 12:32:06 2015//TOPENBSD_7_1
+/master.passwd/1.104/Fri Apr 24 14:57:31 2020//TOPENBSD_7_1
+/minfree/1.1/Mon Dec 18 15:18:15 1995//TOPENBSD_7_1
+/moduli/1.31/Tue Sep 28 11:10:05 2021//TOPENBSD_7_1
+/monthly/1.13/Wed Jan 19 06:18:05 2011//TOPENBSD_7_1
+/motd/1.8/Sun Jan 11 14:08:38 1998//TOPENBSD_7_1
+/netstart/1.217/Tue Feb 22 06:44:40 2022//TOPENBSD_7_1
+/newsyslog.conf/1.38/Wed Jan  5 18:34:23 2022//TOPENBSD_7_1
+/nsd.conf/1.13/Thu Aug 16 17:59:12 2018//TOPENBSD_7_1
+/ntpd.conf/1.16/Wed Nov  6 19:04:12 2019//TOPENBSD_7_1
+/pf.conf/1.55/Sun Dec  3 20:40:04 2017//TOPENBSD_7_1
+/pf.os/1.27/Sat Sep  3 17:08:57 2016//TOPENBSD_7_1
+/protocols/1.24/Sat Jul 12 14:38:38 2014//TOPENBSD_7_1
+/rc/1.556/Mon Jan 17 04:12:15 2022//TOPENBSD_7_1
+/rc.conf/1.225/Thu Nov 11 09:38:14 2021//TOPENBSD_7_1
+/rpc/1.6/Thu Mar 13 15:22:21 2014//TOPENBSD_7_1
+/services/1.104/Wed Mar  2 11:43:52 2022//TOPENBSD_7_1
+/shells/1.8/Sat Feb 14 17:06:40 2009//TOPENBSD_7_1
+/syslog.conf/1.21/Wed Oct 13 20:34:03 2021//TOPENBSD_7_1
+/ttys.pty/1.6/Wed Jul 16 14:34:33 2014//TOPENBSD_7_1
+/unbound.conf/1.21/Wed Oct 28 11:35:58 2020//TOPENBSD_7_1
+/weekly/1.30/Wed Feb 12 20:51:49 2020//TOPENBSD_7_1

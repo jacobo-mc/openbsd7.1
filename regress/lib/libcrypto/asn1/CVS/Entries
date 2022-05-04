@@ -1,0 +1,12 @@
+/Makefile/1.16/Sat Feb 26 16:45:31 2022//TOPENBSD_7_1
+/asn1api.c/1.2/Tue Dec 14 17:10:02 2021//TOPENBSD_7_1
+/asn1basic.c/1.4/Wed Jan 12 07:55:25 2022//TOPENBSD_7_1
+/asn1complex.c/1.1/Thu Dec  9 16:30:57 2021//TOPENBSD_7_1
+/asn1evp.c/1.4/Tue Apr  6 16:30:27 2021//TOPENBSD_7_1
+/asn1object.c/1.6/Sat Mar 19 17:37:10 2022//TOPENBSD_7_1
+/asn1string_copy.c/1.1/Sat Nov 13 20:50:14 2021//TOPENBSD_7_1
+/asn1time.c/1.9/Thu Dec  9 16:31:33 2021//TOPENBSD_7_1
+/asn1x509.c/1.2/Wed Jan 12 08:45:09 2022//TOPENBSD_7_1
+/rfc5280time.c/1.4/Fri Oct 30 15:52:55 2015//TOPENBSD_7_1
+/string_table.c/1.1/Sat Dec 11 22:58:48 2021//TOPENBSD_7_1
+D

@@ -1,0 +1,39 @@
+D/AsmParser////
+D/Disassembler////
+D/MCTargetDesc////
+D/TargetInfo////
+/CMakeLists.txt/1.1.1.2/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1
+/Lanai.h/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/Lanai.td/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiAluCode.h/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiAsmPrinter.cpp/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiCallingConv.td/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiCondCode.h/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiDelaySlotFiller.cpp/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiFrameLowering.cpp/1.1.1.3/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1
+/LanaiFrameLowering.h/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiISelDAGToDAG.cpp/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiISelLowering.cpp/1.1.1.3/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1
+/LanaiISelLowering.h/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiInstrFormats.td/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiInstrInfo.cpp/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiInstrInfo.h/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiInstrInfo.td/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiMCInstLower.cpp/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiMCInstLower.h/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiMachineFunctionInfo.cpp/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiMachineFunctionInfo.h/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiMemAluCombiner.cpp/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiRegisterInfo.cpp/1.1.1.3/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1
+/LanaiRegisterInfo.h/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiRegisterInfo.td/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiSchedule.td/1.1.1.1/Mon Aug  3 14:30:25 2020/-ko/TOPENBSD_7_1
+/LanaiSelectionDAGInfo.cpp/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiSelectionDAGInfo.h/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiSubtarget.cpp/1.1.1.3/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1
+/LanaiSubtarget.h/1.1.1.2/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1
+/LanaiTargetMachine.cpp/1.1.1.2/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1
+/LanaiTargetMachine.h/1.1.1.3/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1
+/LanaiTargetObjectFile.cpp/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiTargetObjectFile.h/1.1.1.2/Wed Apr 28 12:28:07 2021/-ko/TOPENBSD_7_1
+/LanaiTargetTransformInfo.h/1.1.1.3/Fri Dec 17 12:23:35 2021/-ko/TOPENBSD_7_1

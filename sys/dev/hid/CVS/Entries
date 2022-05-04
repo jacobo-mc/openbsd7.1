@@ -1,0 +1,11 @@
+/files.hid/1.2/Wed Jan 20 01:26:00 2016//TOPENBSD_7_1
+/hid.c/1.3/Thu Jun  4 23:03:43 2020//TOPENBSD_7_1
+/hid.h/1.9/Wed Sep  1 10:41:39 2021//TOPENBSD_7_1
+/hidkbd.c/1.6/Mon Nov  2 19:45:18 2020//TOPENBSD_7_1
+/hidkbdsc.h/1.1/Fri Jan  8 15:54:13 2016//TOPENBSD_7_1
+/hidkbdvar.h/1.1/Fri Jan  8 15:54:13 2016//TOPENBSD_7_1
+/hidms.c/1.8/Sun Jan  9 05:42:37 2022//TOPENBSD_7_1
+/hidmsvar.h/1.2/Sun Jan 10 16:32:48 2021//TOPENBSD_7_1
+/hidmt.c/1.12/Thu Jul  9 21:01:08 2020//TOPENBSD_7_1
+/hidmtvar.h/1.8/Fri Nov  8 01:20:22 2019//TOPENBSD_7_1
+D
